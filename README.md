@@ -1,1 +1,1 @@
-# SOC-Analyst-Challenge
+# Dectection-Lab
